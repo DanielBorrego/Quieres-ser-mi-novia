@@ -1,2 +1,3 @@
-# Quieres-ser-mi-novia
-Este es un programa de prueba por si aquella persona que te gusta no quiere se arrepienta un poco.
+Esto es un codigo en forma de broma hecho con python, teneis el ejecutable para poder probar.
+**NOTA IMPORTANTE**
+Si se usa el programa se debe usar una maquina virtual, no lo useis en la maquina real para nada, si es el caso y pierdes todo el contenido del sistema Operativo, el creador del codigo no se hace responsable. Recordad que solo funciona con sistemas **Linux** o **UIX**, este codigo es incompatible con windows.
